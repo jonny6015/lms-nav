@@ -13,7 +13,7 @@ import java.util.Date;
  * 通知表
  * </p>
  *
- * @author stylefeng
+ * @author Jonny Chang
  * @since 2017-07-11
  */
 @TableName("sys_notice")

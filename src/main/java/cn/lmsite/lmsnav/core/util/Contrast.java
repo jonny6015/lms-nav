@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -41,7 +41,7 @@ public class Contrast {
     /**
      * 比较两个对象,并返回不一致的信息
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/9 19:34
      */
     public static String contrastObj(Object pojo1, Object pojo2) {
@@ -81,7 +81,7 @@ public class Contrast {
     /**
      * 比较两个对象pojo1和pojo2,并输出不一致信息
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/9 19:34
      */
     public static String contrastObj(Class dictClass, String key, Object pojo1, Map<String, String> pojo2) throws IllegalAccessException, InstantiationException {
@@ -132,7 +132,7 @@ public class Contrast {
     /**
      * 比较两个对象pojo1和pojo2,并输出不一致信息
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/9 19:34
      */
     public static String contrastObjByName(Class dictClass, String key, Object pojo1, Map<String, String> pojo2) throws IllegalAccessException, InstantiationException {
@@ -194,7 +194,7 @@ public class Contrast {
     /**
      * 解析多个key(逗号隔开的)
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/16 22:19
      */
     public static String parseMutiKey(AbstractDictMap dictMap, String key, Map<String, String> requests) {

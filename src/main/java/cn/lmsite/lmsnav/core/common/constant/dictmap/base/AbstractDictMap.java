@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -37,7 +37,7 @@ public abstract class AbstractDictMap {
     /**
      * 初始化字段英文名称和中文名称对应的字典
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/9 19:39
      */
     public abstract void init();
@@ -45,7 +45,7 @@ public abstract class AbstractDictMap {
     /**
      * 初始化需要被包装的字段(例如:性别为1:男,2:女,需要被包装为汉字)
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/9 19:35
      */
     protected abstract void initBeWrapped();

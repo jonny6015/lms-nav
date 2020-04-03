@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@ public interface IRoleService extends IService<Role> {
     /**
      * 删除角色
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/5 22:24
      */
     void delRoleById(Integer roleId);

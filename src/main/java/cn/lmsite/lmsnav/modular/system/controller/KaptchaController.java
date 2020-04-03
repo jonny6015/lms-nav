@@ -95,7 +95,7 @@ public class KaptchaController {
     /**
      * 返回图片
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/24 23:00
      */
     @RequestMapping("/{pictureId}")

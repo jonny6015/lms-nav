@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ import java.util.Map;
  * 通知表 服务类
  * </p>
  *
- * @author stylefeng123
+ * @author Jonny Chang123
  * @since 2018-02-22
  */
 public interface INoticeService extends IService<Notice> {

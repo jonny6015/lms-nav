@@ -12,7 +12,7 @@ import java.io.Serializable;
  * 角色表
  * </p>
  *
- * @author stylefeng
+ * @author Jonny Chang
  * @since 2017-07-11
  */
 @TableName("sys_role")

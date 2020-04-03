@@ -9,7 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
  *@Title ManageServletInitializer.java
  *@description Guns Web程序启动类
  *@time 2019年12月22日 下午8:52:53
- *@author Nikati
+ *@author Jonny Chang
  *@version 1.0
 *
  */

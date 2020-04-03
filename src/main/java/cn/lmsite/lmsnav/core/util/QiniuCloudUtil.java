@@ -28,7 +28,7 @@ import com.qiniu.util.Auth;
  *@Title QiniuCloudUtil.java
  *@description 七牛云工具类
  *@time 2019年12月22日 下午5:44:33
- *@author Nikati
+ *@author Jonny Chang
  *@version 1.0
 *
  */

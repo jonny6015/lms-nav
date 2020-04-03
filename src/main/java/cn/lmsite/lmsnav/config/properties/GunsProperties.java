@@ -26,7 +26,7 @@ import static cn.stylefeng.roses.core.util.ToolUtil.getTempPath;
 /**
  * guns项目配置
  *
- * @author stylefeng
+ * @author Jonny Chang
  * @date 2019/5/23 22:31
  */
 @Component

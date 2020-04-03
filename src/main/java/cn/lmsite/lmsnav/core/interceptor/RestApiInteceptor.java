@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Rest Api接口鉴权
  *
- * @author stylefeng
+ * @author Jonny Chang
  * @Date 2018/7/20 23:11
  */
 public class RestApiInteceptor extends HandlerInterceptorAdapter {

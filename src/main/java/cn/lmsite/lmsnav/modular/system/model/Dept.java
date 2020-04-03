@@ -12,7 +12,7 @@ import java.io.Serializable;
  * 部门表
  * </p>
  *
- * @author stylefeng
+ * @author Jonny Chang
  * @since 2017-07-11
  */
 @TableName("sys_dept")

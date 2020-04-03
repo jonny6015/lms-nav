@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -34,7 +34,7 @@ public interface IMenuService extends IService<Menu> {
     /**
      * 删除菜单
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/5 22:20
      */
     void delMenu(Long menuId);
@@ -42,7 +42,7 @@ public interface IMenuService extends IService<Menu> {
     /**
      * 删除菜单包含所有子菜单
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/6/13 22:02
      */
     void delMenuContainSubMenus(Long menuId);

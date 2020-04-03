@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -60,7 +60,7 @@ public class ConstantFactory implements IConstantFactory {
     /**
      * 根据用户id获取用户名称
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019/5/9 23:41
      */
     @Override
@@ -76,7 +76,7 @@ public class ConstantFactory implements IConstantFactory {
     /**
      * 根据用户id获取用户账号
      *
-     * @author stylefeng
+     * @author Jonny Chang
      * @date 2019年5月16日21:55:371
      */
     @Override

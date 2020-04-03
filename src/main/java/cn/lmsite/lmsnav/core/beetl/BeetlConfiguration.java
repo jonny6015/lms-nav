@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2020 stylefeng & fengshuonan (https://gitee.com/stylefeng)
+ * Copyright 2018-2020 Jonny Chang  (https://github.com/jonny6015)
  * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * beetl拓展配置,绑定一些工具类,方便在模板中直接调用
  *
- * @author stylefeng
+ * @author Jonny Chang
  * @Date 2018/2/22 21:03
  */
 public class BeetlConfiguration extends BeetlGroupUtilConfiguration {
