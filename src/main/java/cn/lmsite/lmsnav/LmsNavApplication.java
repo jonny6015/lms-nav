@@ -1,6 +1,7 @@
 package cn.lmsite.lmsnav;
 
 import cn.stylefeng.roses.core.config.WebAutoConfiguration;
+import org.mybatis.spring.annotation.MapperScan;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
@@ -13,11 +14,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @date 2020/04/03
  */
 @SpringBootApplication(exclude = WebAutoConfiguration.class)
+@MapperScan("cn.lmsite.lmsnav.modular.system.dao")
 public class LmsNavApplication {
 	private final static Logger logger = LoggerFactory.getLogger(LmsNavApplication.class);
 
 	/**
-	 * 主要
+	 * main
 	 *
 	 * @param args arg游戏
 	 */
