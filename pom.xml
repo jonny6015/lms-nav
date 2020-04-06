@@ -11,6 +11,8 @@
     <groupId>cn.lmsite</groupId>
     <artifactId>lms-nav</artifactId>
     <version>0.9.0</version>
+    <!--<packaging>jar</packaging>-->
+    <packaging>war</packaging>
     <name>lms-nav</name>
     <description>The navigation site with Spring Boot</description>
     <properties>
