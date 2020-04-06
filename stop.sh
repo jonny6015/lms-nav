@@ -1,5 +1,4 @@
 #!/bin/sh
-cd /home/jenkins/HelloWorld
 echo "停止 lms-nav  应用...."
 pid=`ps -ef | grep lms-nav-0.9.0.jar | grep -v grep | awk '{print $2}'`
 # shellcheck disable=SC1035
